@@ -132,24 +132,6 @@ npm start
 | PUT    | `/api/admin/accounts/{id}/freeze`                     | Admin      |
 | GET    | `/api/admin/transactions/flagged`                       | Admin      |
 
----
-
-## Future Enhancements
-
-- [ ] Scheduled interest disbursement via Spring `@Scheduled` jobs
-- [ ] Unit & integration tests (JUnit + Mockito) covering concurrent transfer scenarios
-- [ ] Redis caching for account balance reads
-- [ ] Rate limiting on transfer endpoints
-- [ ] Dockerized deployment (backend + frontend + MySQL via Docker Compose)
-
----
-
-## Disclaimer
-
-This is a portfolio/demonstration project and is **not production-hardened**. It does not include production-grade secrets management, refresh token rotation, or comprehensive input sanitization beyond basic validation.
-
----
-
 ## Author
 
 **Garima Upadhyay**

@@ -1,6 +1,7 @@
 # FinCore — Enterprise Banking & Digital Payments Platform
 
 A full-stack core banking system built with **Java, Spring Boot, MySQL, and React**, simulating real-world banking operations — fund transfers, fraud detection, role-based access control, and transaction integrity — the kind of system used by BFSI (Banking, Financial Services & Insurance) organizations.
+
 <img width="1072" height="496" alt="image" src="https://github.com/user-attachments/assets/c3f41c21-9646-475e-bfbd-f56587ebdf98" />
 
 ## Overview
